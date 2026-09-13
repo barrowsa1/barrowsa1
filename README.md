@@ -15,3 +15,7 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 2. Learn more about A.I. and cybersecurity (take courses in them)
 3. Gain knowledge in Git, Github, AWS, and Azure
 
+## Let's Connect
+- **LinkedIn**: [Ally Barrows](www.linkedin.com/in/allyson-barrows-b71027281)
+- **Email**: barrows.allyson2019@gmail.com
+
