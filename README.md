@@ -26,4 +26,4 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 - Music and art are my favorite things to do when I have freetime
 
 
-![Your Alt Text](file:///C:/Users/barro/Downloads/c299fad4-45c9-4821-9b38-f6b4ecca27cd~1.jpg)
+![Your Alt Text](https://kommodo.ai/i/XwJUJ3gEphChMkUyrCt2)
