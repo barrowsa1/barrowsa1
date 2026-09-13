@@ -16,6 +16,13 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 3. Gain knowledge in Git, Github, AWS, and Azure
 
 ## Let's Connect
-- **LinkedIn**: [Ally Barrows](www.linkedin.com/in/allyson-barrows-b71027281)
+- **LinkedIn**: [Ally Barrows](https://www.linkedin.com/in/allyson-barrows-b71027281/)
 - **Email**: barrows.allyson2019@gmail.com
 
+## Fun Facts
+- I play the trumpet and participate in the band program at CSP
+- I graduated highschool with my AA degree
+- I enjoy going to the gym and going on runs
+- Music and art are my favorite things to do when I have freetime
+
+![Your Alt Text](c:\Users\barro\OneDrive\Pictures\Snapchat-916419054.jpg)
