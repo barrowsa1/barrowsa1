@@ -24,3 +24,6 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 - I graduated highschool with my AA degree
 - I enjoy going to the gym and going on runs
 - Music and art are my favorite things to do when I have freetime
+
+
+![Your Alt Text](https://cdn.phototourl.com/free/2026-09-13-7c5be74a-6f80-4747-9860-fd994e7ce942.jpg)
