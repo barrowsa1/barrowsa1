@@ -31,4 +31,7 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 
 ![Photo of Ally Barrows](https://user32125.na.imgto.link/public/20260913/ally-picture-for-github.avif)
 
+I hope you were able to learn a little more about me from this profile! :)
+
+
 I am excited to continue growing my skills in technology and software development!
