@@ -30,3 +30,5 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 - Music and art are two of my favorite things to do in my free time.
 
 ![Photo of Ally Barrows](https://user32125.na.imgto.link/public/20260913/ally-picture-for-github.avif)
+
+I hope you were able to learn a little more about me from this profile! :)
