@@ -16,3 +16,8 @@ Hello, my name is Allyson (Ally) Barrows. A little bit about myself is that I am
 1. Become proficient in SQL by the end of my database class.
 2. Learn more about AI and cybersecurity through future courses.
 3. Gain more experience with Git, GitHub, AWS, and Azure.
+
+## Let's Connect
+
+- **LinkedIn:** [Ally Barrows](https://www.linkedin.com/in/allyson-barrows-b71027281/)
+- **Email:** barrows.allyson2019@gmail.com
